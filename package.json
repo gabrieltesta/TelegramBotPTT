@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "author": "@gabrieltesta",
-  "repository": "https://github.com/gabrieltesta/TelegramBotPTT"
+  "repository": "https://github.com/gabrieltesta/TelegramBotPTT",
   "license": "GPLv3",
   "scripts":{
     "start": "node index.js"
