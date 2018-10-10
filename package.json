@@ -1,0 +1,16 @@
+{
+  "name": "ppt",
+  "version": "1.0.0",
+  "description": "Bot Telegram PPT",
+  "main": "index.js",
+  "dependencies": { 
+      "request":"^2.88.0",
+      "node-telegram-bot-api":"^0.30.0"
+  },
+  "devDependencies": {},
+  "author": "@gabrieltesta",
+  "license": "ISC",
+  "scripts":{
+    "start": "node index.js"
+  }
+}
