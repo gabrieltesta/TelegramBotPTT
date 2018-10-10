@@ -1,7 +1,7 @@
 {
-  "name": "ppt",
+  "name": "TelegramBotPTT",
   "version": "1.0.0",
-  "description": "Bot Telegram PPT",
+  "description": "Bot Telegram PTT",
   "main": "index.js",
   "dependencies": { 
       "request":"^2.88.0",
@@ -9,7 +9,8 @@
   },
   "devDependencies": {},
   "author": "@gabrieltesta",
-  "license": "ISC",
+  "repository": "https://github.com/gabrieltesta/TelegramBotPTT"
+  "license": "GPLv3",
   "scripts":{
     "start": "node index.js"
   }
