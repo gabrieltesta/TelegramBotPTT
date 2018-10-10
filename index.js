@@ -1,7 +1,7 @@
 const request = require('request');
 const TelegramBot = require('node-telegram-bot-api');
 const chat_id = '';
-const img = 'http://ix.br/stats/93a90de78413c1557bf553404bea9c14/sp/images/setas01.png';
+const img = '';
 const token = '';
 const bot = new TelegramBot(token);
 var date = new Date();
