@@ -15,4 +15,4 @@ O Bot funciona coletando o buffer da imagem no site - uma vez que a API de bots 
  
 ## Utilização
 
-Apenas faça um fork e insira os valores de chat_id e token do Telegram nas variáveis com valores vazios.
+Apenas faça um clone ou fork e insira os valores de chat_id e token do Telegram nas variáveis com valores vazios.
